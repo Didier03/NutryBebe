@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215662702216",
+    "project_id": "nutrybebe-7fd0d",
+    "storage_bucket": "nutrybebe-7fd0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215662702216:android:58576ccf43d6fff7d5793d",
+        "android_client_info": {
+          "package_name": "com.example.nutribebapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP_-th_Wo57371Vl7M-J8C88AdiiYUPjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
